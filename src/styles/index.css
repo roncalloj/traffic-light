@@ -1,4 +1,36 @@
+.fondo {
+    width: 10em;
+    height: 30em;
+    background: black;
+    border-radius: 1em;
+    margin: 3em auto;
+}
+.circulo {
+        width: 7em;
+		height: 7em;
+		background: blue;
+		border-radius: 50%;
+		margin: auto;
+}
 
+.rojo.activo {
+    background: red;
+}
+.amarillo.activo {
+    background: yellow;
+}
+.verde.activo {
+    background: rgb(10, 180, 10);
+}
+.rojo {
+    background: rgb(68, 10, 10);
+}
+.amarillo {
+    background: rgb(72, 72, 10);
+}
+.verde {
+    background: rgb(10, 68, 10);
+}
 /* 
 
     You can write your own styles here...
